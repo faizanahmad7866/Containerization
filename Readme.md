@@ -14,7 +14,7 @@
       <br>
     
 
-      <h1>Which Tool Used To Makes Container :-</h1>
+      <h1>Which Tool Used To  Container :-</h1>
       <h4>(Many Tools availabe in industry used to make contianers but 2 tool is most popular tools) </h4>
       <h2>Docker and Podman :--</h2>
 <center><img src="Podman-vs.-Docker.png" width="350"  height="300"></center>
